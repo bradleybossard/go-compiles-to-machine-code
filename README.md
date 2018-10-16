@@ -2,4 +2,4 @@
 
 ### Links
 
-[Integrating OpenCV.js with an Angular application – Code d'Ivoire – Medium](https://medium.com/code-divoire/integrating-opencv-js-with-an-angular-application-20ae11c7e217)
+[How a Go Program Compiles down to Machine Code - The Stream Blog](https://getstream.io/blog/how-a-go-program-compiles-down-to-machine-code/)
